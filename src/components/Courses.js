@@ -14,7 +14,7 @@ const Courses = () => {
 
       <div className='md:flex md:gap-x-4'>
         <div className='shadow-[0px_2px_3px_-1px_rgba(0,0,0,0.1),0px_1px_0px_0px_rgba(25,28,33,0.02),0px_0px_0px_1px_rgba(25,28,33,0.08)]
-                      h-[90px] w-[240px] relative mt-[20px]
+                      h-[90px] w-[240px] relative mt-[20px] cursor-pointer
                       md:h-[120px] md:w-[290px]
                       lg:h-[160px] lg:w-[330px]
                       '>
@@ -40,7 +40,7 @@ const Courses = () => {
         </div>
       
         <div className='shadow-[0px_2px_3px_-1px_rgba(0,0,0,0.1),0px_1px_0px_0px_rgba(25,28,33,0.02),0px_0px_0px_1px_rgba(25,28,33,0.08)]
-                        h-[90px] w-[240px] relative mt-[20px]
+                        h-[90px] w-[240px] relative mt-[20px] cursor-pointer
                         md:h-[120px] md:w-[290px]
                         lg:h-[160px] lg:w-[330px]
                         '>

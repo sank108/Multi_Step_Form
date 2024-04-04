@@ -115,6 +115,7 @@ const DemoComponent = () => {
             onClick={clickHandler}
             className='h-[30px] w-[100px] bg-black text-white text-[11px] flex items-center justify-center mx-auto mt-[10px] rounded-md cursor-pointer hover:opacity-50
             transition-opacity duration-200
+            max-[767px]:hover:opacity-100
             md:h-[35px] md:w-[125px] 
             min-[1024px]:h-[45px] min-[1024px]:w-[150px] min-[1024px]:text-sm'
             >
